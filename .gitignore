@@ -1,0 +1,20 @@
+# Ignore source folder
+Face-recognition/
+
+# Ignore dataset
+dataset/
+
+# Ignore test images
+Test_Images/
+Test_Evaluation/
+
+# Ignore virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.yml
