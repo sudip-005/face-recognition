@@ -3,7 +3,6 @@ import numpy as np
 import os
 from datetime import datetime
 import json
-
 class FaceDatasetCollector:
     def __init__(self):
         self.face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
