@@ -8,7 +8,6 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import seaborn as sns
 import matplotlib.pyplot as plt
 from tqdm import tqdm
-
 # SETTINGS
 TEST_FOLDER = "Face-recognition/Test_Evaluation"
 THRESHOLD = 0.6
