@@ -4,7 +4,7 @@ import os
 import json
 import sys
 import pickle
-# Reduce TensorFlow/DeepFace startup noise
+
 os.environ.setdefault('TF_CPP_MIN_LOG_LEVEL', '3')
 os.environ.setdefault('TF_ENABLE_ONEDNN_OPTS', '0')
 import logging
