@@ -100,7 +100,7 @@ matplotlib
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/face-recognition-system.git
+git clone https://github.com/sudip-005/face-recognition-system.git
 cd face-recognition-system
 ```
 
